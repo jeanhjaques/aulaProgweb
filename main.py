@@ -1,1 +1,1 @@
-Hello Word
+print("Olá mundo");
