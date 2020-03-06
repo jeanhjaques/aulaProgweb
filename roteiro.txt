@@ -2,3 +2,6 @@ Roteiro Git/hun
 -Por que Controlar?
 -Formas de controlar
 -Ferramentas e websites Git
+-Comandos Git
+-- init
+-- commit
